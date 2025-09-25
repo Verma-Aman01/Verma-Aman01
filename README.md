@@ -5,7 +5,6 @@ Welcome to my GitHub profile! 🚀
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Scholar at **Reliance Foundation Scholarship**
 - 🏫 Student at **NIT Srinagar**
 - 💡 Interested in **Computer Science, AI, and Embedded Systems**
 - 🌱 Currently learning **Verilog, Data Structures & Algorithms, and AI**
