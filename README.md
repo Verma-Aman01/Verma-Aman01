@@ -27,9 +27,8 @@ Welcome to my GitHub profile! 🚀
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: **your_email@example.com**
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/)  
-- 🐦 [Twitter](https://twitter.com/YOUR-TWITTER)  
+- 📧 Email: **aman.gusknp2023@gmail.com**
+- 💼 [LinkedIn](www.linkedin.com/in/aman-verma-18a3922a6)   
 - 🌐 Portfolio: [your-website.com](https://your-website.com)
 
 ---
